@@ -1,3 +1,10 @@
+---
+name: author-review-revise
+description: Produce a hierarchical research corpus through parallel authoring, multi-perspective review, and iterative revision. Use when the user wants deep, cited, structured research on a topic.
+argument-hint: "<topic> [output-dir]"
+disable-model-invocation: true
+---
+
 # Author, Review, Revise
 
 A skill for producing a hierarchical corpus of research documents through
